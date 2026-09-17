@@ -1,6 +1,6 @@
 Hi, I'm Iago 👋
 
-I'm a Senior Product Manager based in Fortaleza, Brazil, who likes technology a little too much for his own good. My work lives where user needs meet business goals. Right now I'm at **Facio** [uma linha sobre o que a Facio faz], where I own the payments domain.
+I'm a Senior Product Manager based in Fortaleza, Brazil, who likes technology a little too much for his own good. My work lives where user needs meet business goals. Right now I'm at **Facio**, a Brazilian fintech that gives workers access to credit through their employer, from salary advances to payroll deducted loans. I own the payments domain there.
 
 Before that I led product for two brands in the sports betting and iGaming space, Pitaco in Brazil and Draftea in Mexico. And before that I spent years in growth and subscription products, where I learned that a good metric beats a good opinion almost every time.
 
